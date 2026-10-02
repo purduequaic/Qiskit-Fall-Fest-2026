@@ -69,4 +69,4 @@ We also thank MTE as our key sponsor.
 - Explore Quantum Computing at [***IBM Quantum Learning***](https://quantum.cloud.ibm.com/learning/en)
 - Read an open access book [***Quantum Computing for the Quantum Curious***](https://link.springer.com/book/10.1007/978-3-030-61601-4)
   
-**Purdue Fort Wayne Contact** Dr. Liu dqliu@pfw.edu. README.md should include team members
+**Purdue Fort Wayne Contact** Dr. Liu dqliu@pfw.edu.
