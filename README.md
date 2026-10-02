@@ -44,6 +44,7 @@ Registration closes: October 4, 2026
 
 Online Training:
 Oct. 9 & Oct. 16 | 12:00–1:30 PM CDT
+
 Hackathon:
 Oct. 22–24, 2026
 The hackathon will be hybrid. Students at participating institutions can work together at their local sites and connect across institutions via Zoom. Students from other institutions are equally welcome to register and participate online.
