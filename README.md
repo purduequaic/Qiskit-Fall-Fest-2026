@@ -11,6 +11,38 @@ Qiskit Fall Fest is a collection of quantum computing events that allows student
 
 The Fall Fest here includes a series of workshops, hackathons, project competition, starting Oct 5 and ends with a project competition, November 5 - 8. Details are coming.
 
+###Important Update:
+We have join and sponsor Interstate Quantum Hackathon for Beginners 2026, taking place October 22–24, 2026.
+This is a multi-state, interinstitutional hybrid event organized by faculty and programs from universities across Tennessee, Indiana, Missouri, Alabama, and Florida.
+You do not need to attend a partner university to participate, everyone is welcome.
+Most importantly, no prior quantum computing experience is required. The program is specifically designed for beginners, including undergraduate students, graduate students, and working professionals who would like to explore quantum computing.
+What participants will receive:
+•	Pre-hackathon online training in quantum fundamentals, Qiskit, VQE, quantum machine learning, and optimization.
+•	Hands-on experience with quantum computing and Qiskit
+•	Beginner-friendly challenges in:
+o	VQE for Chemistry & Materials
+o	Quantum Machine Learning for real-world data
+o	Optimization for Energy & the Electric Grid
+•	Industry talk and interaction with mentors
+•	IBM Certificate of Participation
+•	MTSU digital badge
+•	Awards, food, and participant stipend/support opportunities
+Important dates:
+Registration closes: October 4, 2026
+Online Training:
+Oct. 9 & Oct. 16 | 12:00–1:30 PM CDT
+Hackathon:
+Oct. 22–24, 2026
+The hackathon will be hybrid. Students at participating institutions can work together at their local sites and connect across institutions via Zoom. Students from other institutions are equally welcome to register and participate online.
+Register here (deadline October 4th, 2026):
+https://forms.cloud.microsoft/pages/responsepage.aspx?id=QL8udrKAukCG_m3UCay0md44GLxELwxDns5CRYeacJhUOE1PNTBERFo3Nk1DM1ZTRUxUVUJFMlJSSi4u&route=shorturl
+Event website:
+Interstate Quantum Hackathon for Beginners 2026
+We would greatly appreciate your help sharing this opportunity with students, faculty, student organizations, and colleagues at your institution and beyond.
+Whether you have already studied quantum computing or are simply curious about it, this is an opportunity to start from the basics, receive training, work with mentors, and complete your first quantum computing challenge.
+We hope you will join us!
+We also thank MTE as our key sponsor.
+
 --------------------------------
 ## Official Registration
 - Please register at https://purdue.ca1.qualtrics.com/jfe/form/SV_74gAJ3qOBtMEz9s for future communication
