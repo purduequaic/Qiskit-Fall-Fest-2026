@@ -19,6 +19,7 @@ You do not need to attend a partner university to participate, everyone is welco
 Most importantly, no prior quantum computing experience is required. The program is specifically designed for beginners, including undergraduate students, graduate students, and working professionals who would like to explore quantum computing.
 
 What participants will receive:
+
 •	Pre-hackathon online training in quantum fundamentals, Qiskit, VQE, quantum machine learning, and optimization.
 
 •	Hands-on experience with quantum computing and Qiskit
