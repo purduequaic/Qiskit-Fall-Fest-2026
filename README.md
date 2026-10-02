@@ -11,7 +11,7 @@ Qiskit Fall Fest is a collection of quantum computing events that allows student
 
 The Fall Fest here includes a series of workshops, hackathons, project competition, starting Oct 5 and ends with a project competition, November 5 - 8. Details are coming.
 
-#Important Update:
+# Important Update:
 
 We have join and sponsor Interstate Quantum Hackathon for Beginners 2026, taking place October 22–24, 2026.
 This is a multi-state, interinstitutional hybrid event organized by faculty and programs from universities across Tennessee, Indiana, Missouri, Alabama, and Florida.
