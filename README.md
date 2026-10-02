@@ -55,6 +55,7 @@ https://forms.cloud.microsoft/pages/responsepage.aspx?id=QL8udrKAukCG_m3UCay0md4
 
 Event website:
 Interstate Quantum Hackathon for Beginners 2026
+
 https://iq-hackathon.github.io/hackathon-beginners-26/
 
 We would greatly appreciate your help sharing this opportunity with students, faculty, student organizations, and colleagues at your institution and beyond.
