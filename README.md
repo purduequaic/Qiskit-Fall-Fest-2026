@@ -13,7 +13,7 @@ The Fall Fest here includes a series of workshops, hackathons, project competiti
 
 # Important Update:
 
-We have join and sponsor Interstate Quantum Hackathon for Beginners 2026, taking place October 22–24, 2026.
+We have joined and are co-sponsoring as Qiskit Partner Plus **Interstate Quantum Hackathon for Beginners 2026**, taking place October 22–24, 2026.
 This is a multi-state, interinstitutional hybrid event organized by faculty and programs from universities across Tennessee, Indiana, Missouri, Alabama, and Florida.
 You do not need to attend a partner university to participate, everyone is welcome.
 Most importantly, no prior quantum computing experience is required. The program is specifically designed for beginners, including undergraduate students, graduate students, and working professionals who would like to explore quantum computing.
@@ -59,56 +59,13 @@ Interstate Quantum Hackathon for Beginners 2026
 https://iq-hackathon.github.io/hackathon-beginners-26/
 
 We would greatly appreciate your help sharing this opportunity with students, faculty, student organizations, and colleagues at your institution and beyond.
+
 Whether you have already studied quantum computing or are simply curious about it, this is an opportunity to start from the basics, receive training, work with mentors, and complete your first quantum computing challenge.
 We hope you will join us!
 We also thank MTE as our key sponsor.
 
---------------------------------
-## Official Registration
-- Please register at https://purdue.ca1.qualtrics.com/jfe/form/SV_74gAJ3qOBtMEz9s for future communication
-
-## Workshops
-- Oct 5 Kickoff
-- Nov 4  
-- Nov 5 - 7 Quantum Computing Project Competition
-- Nov 8 Closing Ceremony and Awards
 ## Learn more about Quantum Computing
 - Explore Quantum Computing at [***IBM Quantum Learning***](https://quantum.cloud.ibm.com/learning/en)
 - Read an open access book [***Quantum Computing for the Quantum Curious***](https://link.springer.com/book/10.1007/978-3-030-61601-4)
   
-## Hackathon Preparation
-- Please download two notebooks to learn about Quantum Compting in Qiskit
-- Upload these notebook into https://colab.research.google.com/ and run the notebooks
-## Hackathon
-## Project Competition
-## Submission and Presentation
-- Create a public github repository and upload your solutions.
-- email github public link to Dr. Liu dqliu@pfw.edu. README.md should include team members
-- 
-## Judging Criteria 
-- The wiiner announcements are final.
-- Originality and Uniqueness (25%)
-•	Compared to what you've seen before, how unique is this project? How interesting do you find it? Did the team attempt something new or difficult?
-
-- Usefulness and Complexity (25%)
-•	Will other people be able to use this project? Was the project thoughtful in how it was designed? How functional is the project as of judging?
-
-- Quantum Community Benefit (25%)
-•	Will this project help the community at large? Can people use this for research or further develop it? Will this project help others learn and understand quantum computing?
-
-- Presentation (25%)
-•	Did the team represent their project well? Was the team able to explain why they made certain decisions? Did the entire team get a chance to speak?
-
-## Hackathon and Challenge Rules
-
--	All submissions must be built using Qiskit.
--	You may use other languages to build your project, but no more than 50 % of your project may be in a language other than Qiskit.
--	All submissions must be built using an open source license, if applicable
--	Projects built are owned by the teams which constructed them
--	Teams must be at least 2 members, but no more than 4 members.
--	You cannot begin building your project until the Hack-a-thon KICK-OFF on 
--	You must submit your project before the provided deadline on 
--	Full judging criteria can be found on the next page
-
-
-
+**Purdue Fort Wayne Contact** Dr. Liu dqliu@pfw.edu. README.md should include team members
