@@ -17,19 +17,31 @@ We have join and sponsor Interstate Quantum Hackathon for Beginners 2026, taking
 This is a multi-state, interinstitutional hybrid event organized by faculty and programs from universities across Tennessee, Indiana, Missouri, Alabama, and Florida.
 You do not need to attend a partner university to participate, everyone is welcome.
 Most importantly, no prior quantum computing experience is required. The program is specifically designed for beginners, including undergraduate students, graduate students, and working professionals who would like to explore quantum computing.
+
 What participants will receive:
 •	Pre-hackathon online training in quantum fundamentals, Qiskit, VQE, quantum machine learning, and optimization.
+
 •	Hands-on experience with quantum computing and Qiskit
+
 •	Beginner-friendly challenges in:
+
 o	VQE for Chemistry & Materials
+
 o	Quantum Machine Learning for real-world data
+
 o	Optimization for Energy & the Electric Grid
+
 •	Industry talk and interaction with mentors
+
 •	IBM Certificate of Participation
+
 •	MTSU digital badge
+
 •	Awards, food, and participant stipend/support opportunities
+
 Important dates:
 Registration closes: October 4, 2026
+
 Online Training:
 Oct. 9 & Oct. 16 | 12:00–1:30 PM CDT
 Hackathon:
