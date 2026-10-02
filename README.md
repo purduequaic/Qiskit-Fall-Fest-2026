@@ -50,9 +50,13 @@ Oct. 22–24, 2026
 The hackathon will be hybrid. Students at participating institutions can work together at their local sites and connect across institutions via Zoom. Students from other institutions are equally welcome to register and participate online.
 
 Register here (deadline October 4th, 2026):
+
 https://forms.cloud.microsoft/pages/responsepage.aspx?id=QL8udrKAukCG_m3UCay0md44GLxELwxDns5CRYeacJhUOE1PNTBERFo3Nk1DM1ZTRUxUVUJFMlJSSi4u&route=shorturl
+
 Event website:
 Interstate Quantum Hackathon for Beginners 2026
+https://iq-hackathon.github.io/hackathon-beginners-26/
+
 We would greatly appreciate your help sharing this opportunity with students, faculty, student organizations, and colleagues at your institution and beyond.
 Whether you have already studied quantum computing or are simply curious about it, this is an opportunity to start from the basics, receive training, work with mentors, and complete your first quantum computing challenge.
 We hope you will join us!
